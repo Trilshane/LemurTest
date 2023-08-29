@@ -1,0 +1,22 @@
+.textContainer {
+  font-size: 10px;
+  line-height: 15px;
+  width: 70%;
+  padding: 22px 24px 19px 28px;
+  box-shadow: 0 0 15px 0 #a29f9e4d;
+  @media screen and (max-width: 1644px) {
+    width: 65%;
+  }
+  @media screen and (max-width: 1444px) {
+    width: 60%;
+  }
+  @media screen and (max-width: 1277px) {
+    width: 55%;
+  }
+  @media screen and (max-width: 1094px) {
+    width: 90%;
+  }
+  @media screen and (max-width: 526px) {
+    width: 70%;
+  }
+}
